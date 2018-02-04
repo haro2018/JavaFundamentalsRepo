@@ -1,5 +1,5 @@
 
-package archivos;
+package manejoarchivos;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

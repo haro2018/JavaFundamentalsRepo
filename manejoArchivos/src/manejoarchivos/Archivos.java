@@ -1,5 +1,5 @@
 
-package archivos;
+package manejoarchivos;
 
 
 public class Archivos {
